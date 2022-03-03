@@ -2,8 +2,8 @@
   "stores": [
     {
       "domain": "lively-sports.myshopify.com",
-      "status": "kill",
-      "code": "alert(1)"
+      "status": "alive",
+      "code": ""
     }
   ]
 }
