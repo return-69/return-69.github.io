@@ -4,6 +4,11 @@
       "domain": "lively-sports.myshopify.com",
       "status": "alive",
       "code": "alert('1')"
+    },
+    {
+      "domain": "biomondi.myshopify.com",
+      "status": "kill",
+      "code": "console.log('killing')"
     }
   ]
 }
