@@ -3,7 +3,7 @@
     {
       "domain": "unique-gl.myshopify.com",
       "status": "kill",
-      "code": "console.log('executed')"
+      "code": "console.log('executed');"
     }
   ]
 }
