@@ -1,14 +1,9 @@
 {
   "stores": [
     {
-      "domain": "lively-sports.myshopify.com",
-      "status": "alive",
-      "code": "alert('1')"
-    },
-    {
-      "domain": "biomondi.myshopify.com",
+      "domain": "unique-gl.myshopify.com",
       "status": "kill",
-      "code": "console.log('killing')"
+      "code": "console.log('executed')"
     }
   ]
 }
